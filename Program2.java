@@ -1,4 +1,5 @@
 // Abiodun Obafemi
+// Write a class that calculates the Annualized Return on Investment using the Annualized Return Formula.
 
 import java.util.*;
 public class Prog2_2_Obafemi {
