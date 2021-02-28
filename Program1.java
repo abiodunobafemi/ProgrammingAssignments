@@ -1,4 +1,9 @@
 // Abiodun Obafemi
+// Write a Java class that displays the following pattern. Name your class Prog1_2_Lastname. 
+//     J     A      V     V    A
+//     J    A A      V   V    A A
+// J   J   AAAAA      V V    AAAAA
+//  J J   A     A      V    A     A
 
 public class Prog1_2_Obafemi {
 
