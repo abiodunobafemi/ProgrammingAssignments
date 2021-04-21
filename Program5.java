@@ -8,6 +8,8 @@
 * Section: 08
 * Assignment: Programming Assignment 5
 *
+* Suppose you are to design a program that prompts the user to enter a String and displays the number of vowels,
+* consonants, and spaces. Assume letters A, E, I, O, U (or a, e, i, o, u) as the vowels.
 ********************************************/
 
 import java.util.*;
