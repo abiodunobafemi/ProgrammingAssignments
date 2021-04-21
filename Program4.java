@@ -8,6 +8,8 @@
 * Section: 08
 * Assignment: Programming Assignment 4
 *
+* Suppose you are to design a payroll program where the user inputs the employee’s name, number of hours worked,
+* hourly pay rate, federal tax rate, and state tax rate and prints a summary of the employee’s paycheck.
 ********************************************/
 
 import java.util.*;
